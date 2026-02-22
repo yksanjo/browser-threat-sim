@@ -11,7 +11,7 @@
     "type-check": "tsc --noEmit",
     "dashboard:dev": "cd dashboard && npm run dev",
     "dashboard:build": "cd dashboard && npm run build",
-    "test": "jest"
+    "test": "node --test tests/*.test.cjs"
   },
   "devDependencies": {
     "@types/chrome": "^0.0.246",
