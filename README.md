@@ -1,5 +1,12 @@
 # browser-threat-sim
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/browser-threat-sim/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/browser-threat-sim/actions)
+![License](https://img.shields.io/github/license/yksanjo/browser-threat-sim)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/browser-threat-sim)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/browser-threat-sim)
+
 ## Detailed Description
 
 browser-threat-sim is maintained as an industry-grade software project with production-ready engineering practices.  
